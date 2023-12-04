@@ -1,4 +1,4 @@
-# Intro to Authentication Based Web Application Attacks
+# Web Application Security: Hashing Stored Passwords
 
 According to the OWASP Top-10 list of Web Application Vulnerabilitites, *Broken Access Controls* were the most common vulnerability found in 94% of applications, followed by *Encryption Failure* and *Injection* vulnerabilities. Given this fact, as developers and users of software that holds our Personally Identifiable Information (PII), our first concern should be the integrity of our authentication systems. 
 
